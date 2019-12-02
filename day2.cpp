@@ -7,7 +7,7 @@
 
 using namespace std;
 
-ifstream f("/Users/student/Desktop/day2/in.txt");
+ifstream f("input.txt");
 
 long val(vector<long> a, int k, int l){
     a[1] = k;
